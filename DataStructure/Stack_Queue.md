@@ -12,7 +12,7 @@
 <br>
 
 ## 예시 그림
-<img src = "https://github.com/hellokorea/project-nowmeet-node/assets/115388726/70d1c506-e6fb-469e-902c-4a4a950d221d" width="200" height="100%">
+<img src = "https://github.com/hellokorea/project-nowmeet-node/assets/115388726/70d1c506-e6fb-469e-902c-4a4a950d221d" width="900" height="100%">
 
 <br>
 
@@ -88,7 +88,7 @@ function divideBy2(decNumber) {
 <br>
 
 ## 예시 그림
-<img src = "https://github.com/hellokorea/project-nowmeet-node/assets/115388726/cd728943-139f-4889-b29d-54d29dbea429" width="400" height="100%">
+<img src = "https://github.com/hellokorea/project-nowmeet-node/assets/115388726/cd728943-139f-4889-b29d-54d29dbea429" width="900" height="100%">
 
 <br>
 
