@@ -105,7 +105,7 @@ console.log(parse);
 ```
 
 ## 직렬화
-- 다시 해당 데이터를 역직렬화 한다면 다음과 같다.
+- 다시 해당 데이터를 직렬화 한다면 다음과 같다.
 ```
 const fs = require("fs");
 const path = require("path");
