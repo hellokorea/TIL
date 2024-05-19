@@ -22,12 +22,13 @@
 - 아래 그림은 서로 다른 차이점을 나타낸 그림이다.
 
 >가상머신 배포 환경
-<img src = "https://github.com/hellokorea/project-nowmeet-node-public/assets/115388726/
-b7c70899-468f-4f1e-ba70-ba90cc7c2d5e" width="600" height="100%">
+
+<img src = "https://github.com/hellokorea/project-nowmeet-node-public/assets/115388726/b7c70899-468f-4f1e-ba70-ba90cc7c2d5e" width="600" height="100%">
 
 <br>
 
 > 도커 배포 환경
+
 <img src = "https://github.com/hellokorea/project-nowmeet-node-public/assets/115388726/1e74fd8b-cc1a-47da-bb61-03477d0bca72" width="600" height="100%">
 
 
