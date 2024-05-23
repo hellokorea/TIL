@@ -25,6 +25,7 @@
 <br>
 
 ## Database
+- [DB 키의 종류](https://github.com/hellokorea/TIL/blob/main/Database/Variety_Keys.md)
 
 <br>
 
