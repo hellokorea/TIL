@@ -90,6 +90,8 @@
 
 <img src = "https://github.com/hellokorea/TIL/assets/115388726/52b40d5b-76de-4891-bd07-f8f4ca757f1d" width="600" height="100%">
 
+<br>
+
 <img src = "https://github.com/hellokorea/TIL/assets/115388726/674d2a73-02ed-4da0-a121-b151bb36e4e6" width="400" height="100%">
 
 - 위 테이블을 보면, Id -> 등급, 등급 -> 할인율, Id -> 할인율을 알 수 있다. 즉, 이행종속성이 성립 되는 것이다.
@@ -97,8 +99,7 @@
 
 <br>
 
-<img src = "https://github.com/hellokorea/TIL/assets/115388726/1dd68dd7-4339-4999-a6be-d2f274c83eaf
-" width="1000" height="100%">
+<img src = "https://github.com/hellokorea/TIL/assets/115388726/1dd68dd7-4339-4999-a6be-d2f274c83eaf" width="1000" height="100%">
 
 - 이 같이 분해하여, 적용한다면 제 3 정규형이 되는 것이다.
 
@@ -131,4 +132,4 @@
 
 ## 제 4 정규형 이상 ~ 
 - 보통 정규화는 BCNF 까지만 하는 경우가 많은데 그이유는 그 이상 정규화를 하면 정규화의 단점이 나타날 수도 있기 때문이다.
-- 여기서는 제 4 정규형 이상을 다루지 않는다.
+- 여기서는 제 4 정규형 이상을 다루지 않는다.`

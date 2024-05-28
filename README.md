@@ -26,6 +26,7 @@
 
 ## Database
 - [DB 키의 종류](https://github.com/hellokorea/TIL/blob/main/Database/Variety_Keys.md)
+- [데이터 정규화](https://github.com/hellokorea/TIL/blob/main/Database/Normalization.md)
 
 <br>
 
