@@ -8,7 +8,7 @@
 <br>
 
 ## Algorithm
-- [Delta]()
+- [Delta](https://github.com/hellokorea/OIL/blob/main/Algorithm/Delta.md)
 
 <br>
 
