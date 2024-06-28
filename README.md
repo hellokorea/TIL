@@ -9,6 +9,7 @@
 
 ## Algorithm
 - [Delta](https://github.com/hellokorea/OIL/blob/main/Algorithm/Delta.md)
+- [Dynamic_Programmin](https://github.com/hellokorea/OIL/blob/main/Algorithm/Dynamic_Programmin.md)
 
 <br>
 
