@@ -31,7 +31,8 @@
 
 <br>
 
-## Nest.js
+## SQL
+- [Basic](https://github.com/hellokorea/OIL/blob/main/SQL/basic.md)
 
 <br>
 
