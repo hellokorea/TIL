@@ -151,8 +151,7 @@ public class Test {
 - Java App이 생성 되는 시점에 사전에 Connection 객체를 미리 생성하여, 보관하고 Java App에서 요청하면 필요할 때 꺼내어 응답을 준다.
 - 즉, 미리 생성되어 있는 Connection 객체를 받아 사용 되는 것이기 때문에 일일이 새로 생성하는 리소스가 발생하지 않게 된다.
 
-<img src = "https://github.com/user-attachments/assets/e874887d-73c5-4e05-a6dd-955dc29573e4
-" width="900" height="100%">
+<img src = "https://github.com/user-attachments/assets/e874887d-73c5-4e05-a6dd-955dc29573e4" width="700" height="80%">
 
 <br>
 
