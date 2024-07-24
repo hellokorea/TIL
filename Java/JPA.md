@@ -25,8 +25,6 @@
 
 ## JPA 환경 구성
 
-<br>
-
 ### Persistence 구성
 - JPA 사용 전에 환경 구성 해야하며 Java App 또는 XML 파일을 통해 구성이 가능하다.
 

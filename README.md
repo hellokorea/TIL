@@ -33,6 +33,7 @@
 
 ## Java
 - [JDBC](https://github.com/hellokorea/OIL/blob/main/Java/JDBC.md)
+- [JPA](https://github.com/hellokorea/OIL/blob/main/Java/JPA.md)
 
 <br>
 
