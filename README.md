@@ -34,6 +34,7 @@
 ## Java
 - [JDBC](https://github.com/hellokorea/OIL/blob/main/Java/JDBC.md)
 - [JPA](https://github.com/hellokorea/OIL/blob/main/Java/JPA.md)
+- [Web Basic](https://github.com/hellokorea/OIL/blob/main/Java/Web_basic.md)
 
 <br>
 
