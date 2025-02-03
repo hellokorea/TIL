@@ -38,6 +38,11 @@
 
 <br>
 
+## OS
+- [JDBC](https://github.com/hellokorea/TIL/blob/main/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EA%B8%B0%EB%B3%B8.md)
+- [JPA](https://github.com/hellokorea/TIL/blob/main/OS/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B5%AC%EC%A1%B0.md)
+
+
 ## SQL
 - [Basic](https://github.com/hellokorea/OIL/blob/main/SQL/basic.md)
 - [Join_Subquery](https://github.com/hellokorea/OIL/blob/main/SQL/Join_Subquery.md)
